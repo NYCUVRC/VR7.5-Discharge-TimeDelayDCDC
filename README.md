@@ -18,3 +18,12 @@ A KiCad project for Discharge&amp;TimeDelayDCDC PCB
   - [x] Ground Plane
   - [x] Version Number
   - [x] Design Rules Check(DRC)
+- [ ] Manufacturing
+  - [x] Gerber Files
+  - [x] Drill Files
+  - [x] BOM
+  - [ ] Pick and Place File
+- [ ] Assembly
+  - [ ] Soldering
+  - [ ] Testing
+  - [ ] Debugging
