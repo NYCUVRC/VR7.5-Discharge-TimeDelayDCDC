@@ -1,7 +1,11 @@
 # VR7.5-Discharge-TimeDelayDCDC
 A KiCad project for Discharge&amp;TimeDelayDCDC PCB
 
-![image](images/discharge%20&%20time_delayforDCDC.jpg)
+## Front
+![front](images/pcb-front.jpg)
+
+## Back
+![back](images/pcb-back.jpg)
 
 ## Features
 - [x] Schematic
