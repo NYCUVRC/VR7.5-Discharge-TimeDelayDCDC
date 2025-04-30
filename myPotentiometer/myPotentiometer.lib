@@ -1,0 +1,22 @@
+* Potentiometer Subcircuit for Ngspice
+* Matches KiCad Symbol Pin Order: 1=Top, 2=Wiper, 3=Bottom
+* Terminals:
+* 1: Top terminal (A)
+* 2: Wiper terminal (W)
+* 3: Bottom terminal (B)
+* Parameters:
+* Rtot: Total resistance (Pin 1 to Pin 3) (default: 10k Ohm)
+* setting: Wiper position (0 to 1, default: 0.5)
+*          0   => Wiper electrically closest to terminal 3 (Bottom)
+*          1   => Wiper electrically closest to terminal 1 (Top)
+* Rmin: Small resistance for stability (default: 1n Ohm)
+
+.subckt POT 1 2 3 params: Rtot=10k setting=0.5 Rmin=1n
+* Resistor between Top (1) and Wiper (2)
+* Value = Rtot * (1 - setting) + Rmin
+R_AW 1 2 {Rtot * (1 - setting) + Rmin}
+
+* Resistor between Wiper (2) and Bottom (3)
+* Value = Rtot * setting + Rmin
+R_WB 2 3 {Rtot * setting + Rmin}
+.ends POT
