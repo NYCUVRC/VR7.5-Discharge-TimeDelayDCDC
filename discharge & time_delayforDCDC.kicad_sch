@@ -3856,8 +3856,8 @@
 		(lib_id "Connector:TestPoint")
 		(at 193.04 118.11 0)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
+		(exclude_from_sim yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4184,7 +4184,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 160.9852 114.3 0)
 			(effects
 				(font
@@ -4193,7 +4193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/2/396/Tayio_Yuden_1102023_MS_mlcc_all_e-3081579.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/TAIYO-YUDEN/EMK325ABJ107MM-T?qs=I6KAKw0tg2y0ShKbEoYruw%3D%3D"
 			(at 160.02 110.49 0)
 			(effects
 				(font
@@ -4202,7 +4202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "MSASJ31LAB5107MTNA01"
+		(property "Description" "EMK325ABJ107MM-T"
 			(at 160.02 110.49 0)
 			(effects
 				(font
@@ -4319,7 +4319,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 154.94 103.632 90)
 			(effects
 				(font
@@ -4328,7 +4328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/YAGEO/RT0603BRD0750KL?qs=sGAEpiMZZMtlubZbdhIBIEgN9MQql2m6ewcteVFRdgU%3D"
 			(at 154.94 105.41 0)
 			(effects
 				(font
@@ -4398,7 +4398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm393.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/Texas-Instruments/LM393BIPWR?qs=OlC7AqGiEDk6Hx8FCoL%252BIg%3D%3D"
 			(at 175.26 118.11 0)
 			(effects
 				(font
@@ -4512,7 +4512,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 187.198 111.76 90)
 			(effects
 				(font
@@ -4521,7 +4521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/YAGEO/RT0603BRD071KL?qs=axriQ0Yj988c5hDxadHTkg%3D%3D"
 			(at 185.42 111.76 0)
 			(effects
 				(font
@@ -4588,7 +4588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm393.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/Texas-Instruments/LM393BIPWR?qs=OlC7AqGiEDk6Hx8FCoL%252BIg%3D%3D"
 			(at 175.26 118.11 0)
 			(effects
 				(font
@@ -4679,7 +4679,7 @@
 		(lib_id "Mechanical:MountingHole")
 		(at 133.35 144.78 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -4775,7 +4775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/436500200_sd.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/Molex/43650-0200?qs=HlEFOAM0q6XGaAJJj3Pssw%3D%3D"
 			(at 83.82 -118.72 0)
 			(effects
 				(font
@@ -4863,7 +4863,7 @@
 		(lib_id "Mechanical:MountingHole")
 		(at 133.35 139.7 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -4959,7 +4959,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/436500200_sd.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/Molex/43650-0400?qs=A%252B%2FNCR0PvNV09lp6LzdRYg%3D%3D"
 			(at 83.82 -98.4 0)
 			(effects
 				(font
@@ -5085,7 +5085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.tw/datasheet/2/54/3386-776606.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/Bourns/3386P-DF6-104LF?qs=GObayqEFkQBe71%2FXK5EYGg%3D%3D"
 			(at 149.86 120.65 0)
 			(effects
 				(font
@@ -5300,7 +5300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/436500200_sd.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/Molex/43650-0200?qs=HlEFOAM0q6XGaAJJj3Pssw%3D%3D"
 			(at 83.82 -83.16 0)
 			(effects
 				(font
@@ -5551,7 +5551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm393.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/Texas-Instruments/LM393BIPWR?qs=OlC7AqGiEDk6Hx8FCoL%252BIg%3D%3D"
 			(at 237.49 59.69 0)
 			(effects
 				(font
@@ -5642,8 +5642,8 @@
 		(lib_id "Connector:TestPoint")
 		(at 160.02 105.41 0)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
+		(exclude_from_sim yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5709,7 +5709,7 @@
 		(lib_id "Mechanical:MountingHole")
 		(at 133.35 134.62 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -5773,8 +5773,8 @@
 		(lib_id "Connector:TestPoint")
 		(at 156.21 120.65 180)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
+		(exclude_from_sim yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5872,7 +5872,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-integrated-circuits-cpc1968j-datasheet?assetguid=ce0031ed-e21a-4fa4-b90c-eebd23af4f26"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/IXYS-Integrated-Circuits/CPC1968J?qs=MxzUEhdSHRboSx9wyWw%2FFA%3D%3D"
 			(at 205.74 118.11 0)
 			(effects
 				(font
@@ -6116,7 +6116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/pdm_docs/sd/436500200_sd.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/Molex/43650-0400?qs=A%252B%2FNCR0PvNV09lp6LzdRYg%3D%3D"
 			(at 83.82 -133.96 0)
 			(effects
 				(font
@@ -6446,7 +6446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds16008.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/Nexperia/US1JJ?qs=jcD%2FCkGBYePtLBmHur9V7g%3D%3D"
 			(at 137.16 67.31 0)
 			(effects
 				(font
@@ -6599,7 +6599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.de/datasheet/2/657/cynergy3_db_ul_v3-1892211.pdf"
+		(property "Datasheet" "https://www.mouser.tw/ProductDetail/Cynergy3/DBT71205U?qs=OlC7AqGiEDmpzAJpsZ9Ytg%3D%3D"
 			(at 177.8 257.15 0)
 			(effects
 				(font
