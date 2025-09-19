@@ -27,7 +27,7 @@ A KiCad project for Discharge&amp;TimeDelayDCDC PCB
   - [x] Drill Files
   - [x] BOM
   - [ ] Pick and Place File
-- [ ] Assembly
-  - [ ] Soldering
-  - [ ] Testing
-  - [ ] Debugging
+- [x] Assembly
+  - [x] Soldering
+  - [x] Testing
+  - [x] Debugging
